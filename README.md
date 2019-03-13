@@ -8,7 +8,7 @@ I created a list of grades that could be used to test the different sorts.
 
 **1) A brief comparison of the three sorting algorithms:**
 
-![comparison_table](https://user-images.githubusercontent.com/40340806/54299825-11578180-4592-11e9-912c-5b85b28e6f68.png)
+![updatedcomparison](https://user-images.githubusercontent.com/40340806/54310698-5aff9680-45a9-11e9-8cc4-7577ad33bc1a.png)
 
 **2) Python code representation:**
 
